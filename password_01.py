@@ -1,6 +1,6 @@
 import random
 a = list()
-b = ['$','#','@','*','%']
+b = ['$','#','@','*','%','=']
 print("Password length 8 :-")
 for i in range(2):
     a.append(chr(random.randrange(65,91)))
