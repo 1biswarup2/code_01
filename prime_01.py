@@ -5,7 +5,7 @@ def isprime(n):
 
     return 1
 
-n = int(input("Enter a number : "))
+n = int(input(" userEnter a number : "))
 if isprime(n) == 1 :
     print(f"{n} is Prime")
 
